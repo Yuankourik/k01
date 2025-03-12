@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -12,9 +11,6 @@
 		<p>This is Kourik-First-Web</p>
 		<h1 align="center">钟核厅堂</h1>
 		<h2 align="center">Johe Hall</h2>
-		<p>你好</p>
-		<p class="kou1">你好</p>
-		<p class="kou1">你好，小核</p>
 		<script>
 			alert("欢迎来到钟核厅堂")
 		</script>

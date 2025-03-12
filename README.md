@@ -17,7 +17,7 @@
 		<p class="kou1">你好</p>
 		<p class="kou1">你好，刘栋</p>
 		<script>
-			alert("黄兴国下面流豆浆了")
+			alert("黄兴国坏掉了")
 		</script>
 		<table border="1">
 			<tr>

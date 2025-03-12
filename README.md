@@ -14,9 +14,9 @@
 		<h2 align="center">Johe Hall</h2>
 		<p>你好</p>
 		<p class="kou1">你好</p>
-		<p class="kou1">你好，刘栋</p>
+		<p class="kou1">你好，小核</p>
 		<script>
-			alert("黄兴国坏掉了")
+			alert("欢迎来到钟核厅堂")
 		</script>
 		<table border="1">
 			<tr>
@@ -25,14 +25,14 @@
 				<td>学号</td>
 			</tr>
 			<tr>
-				<td>刘栋</td>
+				<td>冰</td>
 				<td>19</td>
-				<td>124545413030</td>
+				<td>22</td>
 			</tr>
 			<tr>
-				<td>黄兴国</td>
+				<td>核</td>
 				<td>19</td>
-				<td>124545413017</td>
+				<td>41</td>
 			</tr>
 		</table>
 		<form action="#" method="post">

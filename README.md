@@ -9,7 +9,7 @@
             // 设置延迟时间（2000毫秒 = 2秒）
             setTimeout(function() {
                 // 跳转到目标页面
-                window.location.href = "https://Yuankourik.github.io/k01/Johe Home Page01/Johe Home Page.html"; // 替换为目标页面的URL
+                window.location.href = "https://Yuankourik.github.io/Johe Home Page01/Johe Home Page.html"; // 替换为目标页面的URL
             }, 2000);
         };
     </script>
